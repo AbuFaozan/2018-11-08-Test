@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "soc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
+carpentry: "sc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "North-West University"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "A2 BlockD G53 Mafikeng Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "ZA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
